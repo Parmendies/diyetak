@@ -38964,7 +38964,7 @@ $0(){this.a.a.c.eG(3350,B.bs,B.cq)},
 $S:0}
 A.rF.prototype={
 J(a){var s,r=null,q=this.c,p=(q&1)===0,o=p?r:B.R
-q=A.auz(new A.nI("asset/ss/"+q+".webp",r,r))
+q=A.auz(new A.nI("asset/ss/"+q+".png",r,r))
 s=A.e1(this.d,r,r,r,A.cQ(r,r,p?B.R:B.i,r,r,r,r,r,r,r,r,24,r,r,B.b2,r,r,!0,r,r,r,r,r,r,r,r),r,r)
 return A.cn(r,A.da(A.b([B.yA,new A.bB(B.GU,q,r),B.cM,new A.bB(B.eb,s,r),B.hH,new A.bB(B.eb,A.e1(this.e,r,r,r,A.cQ(r,r,p?B.ma:B.i,r,r,r,r,r,r,r,r,16,r,r,B.O,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),B.cN],t.p),B.G,B.H,B.v),B.r,o,r,r,r,r,r,r,r,r,r)}}
 A.J4.prototype={
