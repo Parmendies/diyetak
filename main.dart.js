@@ -38965,7 +38965,7 @@ $0(){this.a.a.c.eG(3350,B.bs,B.cq)},
 $S:0}
 A.rF.prototype={
 J(a){var s,r=null,q=this.c,p=(q&1)===0,o=p?r:B.R
-q=A.auz("assets/asset/ss/"+q+".png",r)
+q=A.auz("asset/ss/"+q+".png",r)
 s=A.e1(this.d,r,r,r,A.cQ(r,r,p?B.R:B.i,r,r,r,r,r,r,r,r,24,r,r,B.b2,r,r,!0,r,r,r,r,r,r,r,r),r,r)
 return A.cn(r,A.da(A.b([B.yA,new A.bB(B.GU,q,r),B.cM,new A.bB(B.eb,s,r),B.hH,new A.bB(B.eb,A.e1(this.e,r,r,r,A.cQ(r,r,p?B.ma:B.i,r,r,r,r,r,r,r,r,16,r,r,B.O,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),B.cN],t.p),B.G,B.H,B.v),B.r,o,r,r,r,r,r,r,r,r,r)}}
 A.J4.prototype={
@@ -38980,7 +38980,7 @@ A.xg.prototype={
 J(a){var s=null,r=this.d,q=A.e1(this.c,s,s,s,A.cQ(s,s,r?B.R:B.i,s,s,s,s,s,s,s,s,45,s,s,B.b2,s,s,!0,s,s,s,s,s,s,s,s),s,s)
 return A.fJ(new A.bB(B.mO,A.da(A.b([q,B.eQ,A.e1(this.e,s,s,s,A.cQ(s,s,r?B.ma:B.i,s,s,s,s,s,s,s,s,24,s,s,B.O,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.aA,B.H,B.v),s))}}
 A.xf.prototype={
-J(a){var s=null,r=new A.qH("asset/ss/"+this.c+".webp",s,s)
+J(a){var s=null,r=new A.qH("asset/ss/"+this.c+".png",s,s)
 A.aP4(r,a)
 return A.fJ(new A.bB(B.mO,A.kZ(B.J,A.b([A.cn(s,s,B.r,B.EC,s,s,s,s,s,s,s,s,s),new A.rB(r,s,s)],t.p),B.a0,B.bR),s))}}
 A.J5.prototype={
