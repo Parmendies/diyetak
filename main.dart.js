@@ -39920,7 +39920,7 @@ J(a){var s=null,r=this.d,q=A.ea(this.c,s,s,s,A.cU(s,s,r?B.V:B.j,s,s,s,s,s,s,s,s,
 return A.fX(new A.bx(B.n2,A.dg(A.a([q,B.f_,A.ea(this.e,s,s,s,A.cU(s,s,r?B.mB:B.j,s,s,s,s,s,s,s,s,24,s,s,B.R,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.ax,B.I,B.x),s))}}
 A.xS.prototype={
 J(a){var s=null
-return A.fX(new A.bx(B.n2,A.jN(B.L,A.a([A.cP(s,s,B.t,B.EJ,s,s,s,s,s,s,s,s,s),A.arD("asset/ss/"+this.c+".png",s)],t.p),B.N,B.bC),s))}}
+return A.fX(new A.bx(B.n2,A.jN(B.L,A.a([A.cP(s,s,B.t,B.EJ,s,s,s,s,s,s,s,s,s),A.arD("asset/ss/"+this.c+"_high.png",s)],t.p),B.N,B.bC),s))}}
 A.JY.prototype={
 J(a){var s=null
 return new A.d3(B.L,s,s,A.awg(new A.a43(),3,s,B.jI,!0),s)}}
